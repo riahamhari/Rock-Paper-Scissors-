@@ -1,3 +1,8 @@
 # Rock-Paper-Scissors-
-The Odin Project: Rock Paper Scissors Project
-Live page: https://riahamhari.github.io/Rock-Paper-Scissors-/
+[:wave: Live Preview](https://riahamhari.github.io/Rock-Paper-Scissors-/)
+
+
+
+Try your luck against the computer
+
+
